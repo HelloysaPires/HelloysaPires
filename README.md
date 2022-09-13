@@ -3,7 +3,7 @@
   
 ### Informações
 - Goiânia, Goías | 19 anos | helloysapires.contato@gmail.com
-- Cursando Sistemas de Informação na Universidade Federal de Goiás - 4º Período
+- Cursando o 4º período de Sistemas de Informação na Universidade Federal de Goiás  
 - Estudando desenvolvimento back-end focado em Java
 - Pretendo me especializar em Cybersecurity
 - Buscando o primeiro emprego na área de T.I.
