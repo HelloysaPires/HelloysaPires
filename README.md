@@ -14,9 +14,9 @@
 
   Estudando: 
 - Linguagens: C, Bash e Java
-- Banco de Dados: Mysql, PostgreSQL e MongoDB
+- Banco de Dados: MySQL, PostgreSQL e MongoDB
 - Cloud: AWS
-- Frameworks: Swing, JavaFX, JUnit, Hibernate e Spring Boot
+- Frameworks: JavaFX, JUnit, Hibernate e Spring Boot
 - Sistema Operacional: Linux
 
 
