@@ -2,7 +2,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helloysa-p-a9832722b/)   [![Certificados](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://drive.google.com/drive/u/1/folders/1QyiImYlrUj-kGFv_r4NqFxr1RNRYyuYy) 
   
 ### INFORMAÇÕES
-- Goiânia, Goías | 19 anos | helloysapires.contato@gmail.com
+- Goiânia, Goías, Brasil | 19 anos | helloysapires.contato@gmail.com
 - Cursando o 4º período de Sistemas de Informação na Universidade Federal de Goiás  
 - Estudando desenvolvimento back-end focado em Java
 - Pretendo me especializar em Cybersecurity
